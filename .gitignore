@@ -1,0 +1,29 @@
+# Built binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/bin/
+/dist/
+
+# Test binaries and coverage output
+*.test
+*.out
+coverage.html
+
+# Go workspace file (usually local to your machine)
+go.work
+go.work.sum
+
+# Environment files (may contain secrets)
+.env
+
+# Editor and OS files
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+day1/day1
+day1/day1_idomatic
