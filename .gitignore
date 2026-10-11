@@ -25,5 +25,5 @@ go.work.sum
 *.swp
 .DS_Store
 Thumbs.db
-day1/day1
-day1/day1_idomatic
+day*/day*
+!day*/*.go
